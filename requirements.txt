@@ -1,0 +1,7 @@
+gradio
+pydub
+gTTS
+SpeechRecognition
+requests
+python-dotenv
+scipy
